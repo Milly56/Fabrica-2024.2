@@ -6,10 +6,10 @@
   <a href="#Pré">Pré requisitos</a> •
 
 
-<h2 id="tecnologia">💻 Technologies</h2>
+<h2 id="tecnologia">💻 Tecnologia</h2>
 
 - Python
-- Sqlite
+- Sqlite3
 
 <h2 id="faz">🚀 o que faz ?</h2>
 Projeto para guarda dados em uma API, e fazer um CRUD.
