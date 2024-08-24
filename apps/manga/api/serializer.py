@@ -5,6 +5,7 @@ class MangaSerializer(serializers.ModelSerializer):
     class Meta:
         model = Manga
         fields = ['id', 
-                'title',  
-                'description', 
+                'titulo',  
+                'Autor',
+                'descricao', 
                 ]
